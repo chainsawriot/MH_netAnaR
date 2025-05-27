@@ -19,7 +19,7 @@ jupyter:
   kernelspec:
     name: "ir"
     language: "R"
-    display_name: "R 4.4.1"
+    display_name: "R"
 ---
 
 # Learning Objectives
