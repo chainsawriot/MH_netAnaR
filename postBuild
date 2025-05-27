@@ -26,7 +26,11 @@ echo
  
 # install required python packages
 python3 -m pip install jupyterlab-quarto
- 
+
+echo qmd2ipynb
+
+quarto convert index.qmd
+
 echo
 echo Completed
 echo
